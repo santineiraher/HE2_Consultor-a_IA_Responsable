@@ -37,6 +37,17 @@ Notas del calendario 📅:
 - Semana de receso: 16-20 Mar.
 - Semana Santa: 30 Mar - 3 Abr.
 
+## Recursos extra 🎁📎
+
+Estos recursos incluyen notebooks introductorios de Python y presentaciones con la configuracion del entorno y requisitos de trabajo.
+
+- Taller de Python (notebooks): [Carpeta](Recursos%20extra/Clases%20taller%20de%20python)
+  - [Clase 1](Recursos%20extra/Clases%20taller%20de%20python/Clase_1.ipynb)
+  - [Clase 2](Recursos%20extra/Clases%20taller%20de%20python/Clase_2.ipynb)
+  - [Clase 3](Recursos%20extra/Clases%20taller%20de%20python/Clase_3.ipynb)
+  - [Clase 4](Recursos%20extra/Clases%20taller%20de%20python/Clase_4.ipynb)
+- Ambientes de trabajo (presentacion): [HE2__Ambientes_de_Trabajo_para_consultoria.pdf](Recursos%20extra/Sobre%20los%20ambientes%20de%20trabajo%20en%20consultor%C3%ADa/HE2__Ambientes_de_Trabajo_para_consultor%C3%ADa.pdf)
+
 
 ## Uso ✅
 
