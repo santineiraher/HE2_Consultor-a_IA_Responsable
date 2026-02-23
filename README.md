@@ -53,6 +53,26 @@ Estos recursos incluyen notebooks introductorios de Python y presentaciones con 
 
 Agrega las presentaciones y materiales correspondientes dentro de la carpeta de cada semana.
 
+## Entorno de trabajo (conda / pip) 🧪
+
+Para evitar conflictos con `base`, se recomienda un entorno dedicado.
+
+### Conda (recomendado)
+
+```bash
+conda env create -f conda_environment.yml
+conda activate pce-2026
+python -m ipykernel install --user --name pce-2026 --display-name "PCE 2026"
+```
+
+### Pip
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
 Licencia: material académico de la Universidad de los Andes. La compartida del repositorio y sus contenidos debe realizarse solo con previa autorizacion de profesores.
 
 Contactos: `s.neira10@uniandes.edu.co`, `cm.bernal10@uniandes.edu.co` `ga.castillo@uniandes.edu.co`.
